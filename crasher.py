@@ -431,9 +431,6 @@ def main():
 
     banner()
     slow(" CREATED BY MR SMILE")
-    
-  slow(" UPDATED VERSION NO ERRORS ")
-    
     slow("    [00] Exit This Tool ")
     slow("    [01] About This Tool ")
     slow("    [02] Update This Tool ")
@@ -510,4 +507,5 @@ if __name__ == "__main__":
       time.sleep(2)
       slow(f"")
       os.sys.exit()
+
 
