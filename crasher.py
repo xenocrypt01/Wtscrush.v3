@@ -35,7 +35,7 @@ def aboutus():
 
 def banner():
     os.system("cls || clear")
-    slow(f"""{yellow}
+    slow(f"""{blue}
     
    __        __ _           _         ____              _   ______            _ 
 \ \      / /| |__   __ _| |_ ___  | __ )   __ _  ___| |_/ ___|  __ ___   _| |
@@ -507,6 +507,7 @@ if __name__ == "__main__":
       time.sleep(2)
       slow(f"")
       os.sys.exit()
+
 
 
 
