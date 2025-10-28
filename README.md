@@ -5,10 +5,10 @@
 apt install python3
 ```
 ```
-git clone https://github.com/xenocrypt01/smiley_b4n
+git clone https://github.com/xenocrypt01/Wtscrush.v3.git
 ```
 ```
-cd smiley_b4n
+cd Wtscrush.v3
 ```
 ```
 pip install requests phonenumbers
